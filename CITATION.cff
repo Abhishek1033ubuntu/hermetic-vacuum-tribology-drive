@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+title: "Hermetic Vacuum Tribology & Contactless Magnetic Drive System"
+version: 1.0.0
+date-released: 2026-09-28
+url: "https://github.com/Abhishek1033ubuntu/hermetic-vacuum-tribology-drive"
