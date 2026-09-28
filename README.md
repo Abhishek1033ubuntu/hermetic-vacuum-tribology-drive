@@ -1,9 +1,10 @@
 # Hermetic Vacuum Tribology & Contactless Magnetic Drive System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/multiaxial-thermal-fatigue-fgm-sma/blob/main/notebooks/multiaxial_thermal_fatigue_sim.ipynb)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
-[![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)](https://gemini.google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/multiaxial-thermal-fatigue-fgm-sma/blob/main/notebooks/multiaxial_thermal_fatigue_sim.ipynb) 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg) 
+[![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)](https://gemini.google.com) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23017290-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23017290) 
 
 ## Overview
 This repository presents the multi-physics simulation and engineering design for resolving dynamic shaft seal failure, cold welding, and volatile outgassing ($TML > 1.0\%$) in ultra-high vacuum (UHV, $P < 10^{-7}\text{ Torr}$) and extreme thermal swing profiles ($-150^\circ\text{C}$ to $+200^\circ\text{C}$).
