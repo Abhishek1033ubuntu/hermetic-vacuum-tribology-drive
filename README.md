@@ -1,6 +1,6 @@
 # Hermetic Vacuum Tribology & Contactless Magnetic Drive System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/hermetic-vacuum-tribology-drive/blob/main/notebooks/vacuum_tribology_sim.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/multiaxial-thermal-fatigue-fgm-sma/blob/main/notebooks/multiaxial_thermal_fatigue_sim.ipynb)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
 
